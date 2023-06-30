@@ -1,0 +1,2 @@
+/usr/local/bin/python3 /Users/beesudadaoruang/Desktop/Coding/MyPython/83.py
+/usr/local/bin/python3 /Users/beesudadaoruang/Desktop/Coding/MyPython/84.py
