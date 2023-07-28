@@ -1,4 +1,4 @@
-age=int(input("14:"))
+age=int(input("input age :"))
 
 if age>15:
     print("นางสาว")
