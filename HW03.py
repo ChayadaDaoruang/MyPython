@@ -1,0 +1,5 @@
+#BMI=weight/(hight*hight)
+w = float(input("weight : "))
+h = float(input("hight : "))
+total = w/(h*h)
+print("Your bmi is : ",total)
