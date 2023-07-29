@@ -1,7 +1,7 @@
-age=int(input("input age :"))
+age = float(input("input age :"))
 
-if age>15:
-    print("นางสาว")
-    print("จบโปรแกรมด้านใน if")
+if age > 15:
+    print("miss")
+    print("finish program inside if")
 
-    print("จบโปรแกรม")
+print("Finish program")
